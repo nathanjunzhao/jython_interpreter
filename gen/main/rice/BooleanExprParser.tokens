@@ -1,0 +1,17 @@
+BOOL=1
+INT=2
+OR=3
+AND=4
+EQUAL=5
+REL=6
+UNA=7
+ADD=8
+MULT=9
+LPAREN=10
+RPAREN=11
+SPACE=12
+'||'=3
+'&&'=4
+'!'=7
+'('=10
+')'=11
