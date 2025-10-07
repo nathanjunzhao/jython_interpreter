@@ -1,4 +1,4 @@
-# jython_interpreter
+# "Jython" Interpreter
 
 This project is an interpreter for a subset of the Python language, built in Java. It demonstrates a practical application of compiler design principles to create a functioning programming language from scratch.
 
